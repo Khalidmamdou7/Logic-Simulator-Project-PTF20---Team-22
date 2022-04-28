@@ -7,11 +7,6 @@ It was aimed after the completion of this project that we will be able to:
 - Code organization and how that could help the integration process
 - Distribute work load and calloborating with a team in a project
 
-## Table of Contents
-1. [More about the project](#more-about-the-project)
-2. [Environment and technologies](#environment-and-technologies)
-3. [Contributers](#contributers)
-
 
 ## More about the project
 This application should help a user draw a logic circuit using different components, connect them with connections, add switches to control inputs and LEDs to monitor outputs, save and load a
