@@ -1,5 +1,5 @@
 # Logic Design Simulator
-A combinational logic circuit design and simulation application for Windows written in C++ using CMU graphics library.
+A Windows application for designing and simulating digital logic circuits. written in C++ using CMU graphics library.
 
 # Table of Contents
 
@@ -8,11 +8,11 @@ A combinational logic circuit design and simulation application for Windows writ
 3. [User Manual](#User-Manual)\
 3.1 [Add Component](#1-Add-Component)\
 3.2 [Delete Component](#2-Delete-Component)\
-3.3 [Copy/Cut Component](#3-Copy/Cut-Component)\
+3.3 [Copy/Cut Component](#3-CopyCut-Component)\
 3.4 [Rename Component](#4-Rename-Component)\
 3.5 [Connect Components](#5-Connect-Components)\
-3.6 [Circuit Simulation](#6-Circuit-Simulation)\
-3.7 [Save a Circuit](#7-Save-a-circuit)\
+3.6 [Circuit Simulation](#6-Simulate-the-Circuit)\
+3.7 [Save a Circuit](#7-Save-the-circuit)\
 3.8 [Load a Circuit](#8-Load-a-circuit)
 4. [Issues](#Issues)
 5. [Contributers](#Contributers)
@@ -30,15 +30,15 @@ This application allows user to design and simulate digital circuits; to see its
  4. Run the code (F5).
 
  ## How to Run Using gcc
- &emsp; &ensp; Makefile will be added soon.
+ &emsp; Makefile will be added soon.
 
 ## User Manual 
  ### 1. Add Component:
  1. From the toolbar click on the component you want to add.
- <img src="https://iili.io/H7IEft9.png" width = 700px/>
+ <img src="https://iili.io/H7IEft9.png" width = 600px/>
 
  2. Click on the schema, wherever you want to place the component, the component will be added to the schema with "DefaultLabel".
-  <img src="https://iili.io/H7Ir6zX.png" width = 700px/>
+  <img src="https://iili.io/H7Ir6zX.png" width = 600px/>
   
 ### 2. Delete Component:
 
@@ -64,10 +64,10 @@ This application allows user to design and simulate digital circuits; to see its
 
 ### 6. Simulate the Circuit:
 1. Build your digital circuit.
-<img src="https://iili.io/H7umdJt.png" alt="H7umdJt.png"/>
+<img src="https://iili.io/H7umdJt.png" width="600px"/>
 
 2. From the toolbar click on "Simulate".
-<img src="https://iili.io/H7AJuxn.png" alt="H7AJuxn.png"/>
+<img src="https://iili.io/H7AJuxn.png" width="600px"/>
 
 3. To change the switch state (on/off), click on "Switch" from the toolbar then click on the switch.
 4. To return to the Design Mode, click on "Design" from the toolbar.
